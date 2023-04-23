@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on some random things
-- 🌱 I’m currently learning <strong> C# ASP.NET</strong>
+- 🌱 I’m currently learning <strong>Rust, Solidity</strong>
 - 👯 I’m looking to <strong> collaborate on opensource project </strong>
 - 💬 Ask me about <strong>anything</strong>
 - 📫 Telegram: <strong>@hagz0r</strong>
