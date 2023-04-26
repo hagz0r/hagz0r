@@ -11,6 +11,7 @@
 
 <strong>Languages and Tools</strong>
 
+
 <table>
     <tbody>
         <tr>
@@ -20,26 +21,31 @@
                 C#
             </td>
             <td width="96" align="center">
-                <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" /></a>
-                <br> JetBrains IDEs
+                <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /></a>
+                <br> C++
             </td>
+            <td width="96" align="center">
+                <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" /></a>
+                <br> Rust
+            </td>
+            <td width="96" align="center">
+                <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" /></a>
+                <br> Solidity
+            </td>
+            <td width="96" align="center">
+                <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /></a>
+                <br> Bash
+            </td>
+        </tr>
+        <tr>
             <td width="96" align="center">
                 <a><img
                         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /></a>
                 <br> Postgresql
             </td>
             <td width="96" align="center">
-                <a><img
-                        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg" /></a>
+                <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg" /></a>
                 <br> Debian
-            </td>
-            <td width="96" align="center">
-                <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /></a>
-                <br> C++
-            </td>
-            <td width="96" align="center">
-                <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /></a>
-                <br> Bash
             </td>
             <td width="96" align="center">
                 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" /></a>
@@ -49,10 +55,33 @@
                 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
                 <br> Git
             </td>
-            <td width="96" align="center">
-                <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" /></a>
-                <br> Rust
+             <td width="96" align="center">
+                <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" /></a>
+                <br> JetBrains IDEs
             </td>
         </tr>
     </tbody>
 </table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
