@@ -5,8 +5,6 @@
 - 🌱 I’m currently learning <strong>Rust, Solidity</strong>
 - 💬 Ask me about <strong>anything</strong>
 - 📫 Telegram: <strong>@hagz0r</strong>
-- ⚡ Fun fact: <strong> I am passionate about learning various languages, such as Czech, Polish, English, Armenian, Russian, I also study music, my favorite instrument is the guitar, I often play in the genre of black metal, it helps me calm down and recover even in extremely stressful situations
-</strong>
 
 <strong>Languages and Tools</strong>
 
