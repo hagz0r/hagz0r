@@ -35,12 +35,21 @@
                 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /></a>
                 <br> Bash
             </td>
+            <td width="96" align="center">
+                <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /></a>
+                <br> Python
+            </td>
         </tr>
         <tr>
             <td width="96" align="center">
                 <a><img
                         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /></a>
                 <br> Postgresql
+            </td>
+            <td width="96" align="center">
+                <a><img
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></a>
+                <br> MongoDB
             </td>
             <td width="96" align="center">
                 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg" /></a>
