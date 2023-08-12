@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on some random things
 - 🌱 I’m currently learning <strong>Rust, Solidity</strong>
-- 💬 Ask me about <strong>anything</strong>
+
 - 📫 Telegram: <strong>@hagz0r</strong>
 
 <strong>Languages and Tools</strong>
