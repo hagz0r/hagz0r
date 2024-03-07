@@ -18,7 +18,9 @@
                 <br> C++
             </td>
             <td width="96" align="center">
-                <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" /></a>
+                <a>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
+          </a>
                 <br> Rust
             </td>
             <td width="96" align="center">
