@@ -1,9 +1,8 @@
-### Hi there 👋
+![img](https://github.com/hagz0r/hagz0r/assets/48390403/b116c20a-3fb4-4153-a604-d8f56c5e13de)
 
-- 📫 Telegram: <strong>@hagz0r</strong>
+<strong>Telegram: @hagz0r</strong>
 
 <strong>Languages and Tools</strong>
-
 
 <table>
     <tbody>
